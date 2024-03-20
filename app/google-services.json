@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899185464589",
+    "project_id": "app-tracker-153a9",
+    "storage_bucket": "app-tracker-153a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899185464589:android:fd364ca00163bd574ecc44",
+        "android_client_info": {
+          "package_name": "com.jminton.apptracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899185464589-eoc07e3kjgd1aui03q2pgnevmin43iio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVbZvQuPxHsgeX99fU_mpfQbhEalkyXb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899185464589-eoc07e3kjgd1aui03q2pgnevmin43iio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
