@@ -1,2 +1,3 @@
 # Time-Sense
  
+This is designed mainly to focus on students who seem to fall in trap of social media attraction by washing away their precious time and energy. The application is going to be a platform where any user can see the amount of time they spend on specific application on that particular day. User will be able to analyze how productive they were on that day by using this application. Along with that they can add reminders to each application to avoid excessive usage mainly social media related applications. According to the kind of application used and time spent on it user will be able to decide how they spent time and can analyze how well they’re utilizing it.
